@@ -2,6 +2,12 @@
 
 This is a simple web-based application that converts text input into speech using the Web Speech API. The application interface is user-friendly and can be easily integrated into any webpage.
 
+
+
+https://github.com/radhikaganesh29/Text_to_Speech/assets/158646026/6e1ca3f6-4114-4e25-8164-a415519341d2
+
+
+
 ## Features
 
 - **Interactive Text-to-Speech Functionality**: Converts user-entered text into spoken words.
